@@ -12,8 +12,8 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 #remote_theme             : benbalter/retlab
-remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme             : mmistakes/minimal-mistakes
+minimal_mistakes_skin    : "sunrise", #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum"
 
 # Site Settings
 locale                   : "en-US"
