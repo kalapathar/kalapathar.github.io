@@ -4,7 +4,7 @@ main:
      url: /blog/
    - title: "About"
      url: /about/
-   - title: "Online-cv"
+   - title: "Resume"
      url: /online-cv/
 
   # - title: "Sample Posts"
