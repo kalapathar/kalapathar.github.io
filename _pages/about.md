@@ -5,7 +5,7 @@ layout: single
 classes: wide
 author:
   name             : "Deepak Shah"
-  avatar           : /assets/images/profile.png/36X25
+  avatar           : /assets/images/aboutprofile.png
   bio              : "Full Stack Developer | Blockchain | Cryptography | Computer Networks"
   location         : "Minneapolis, MN"
   email            :
