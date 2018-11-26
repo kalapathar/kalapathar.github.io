@@ -25,7 +25,7 @@ In the above diagram, transaction is a general term. Transactions could of cours
 Before Election:
 Voter registers and receives voter ID
 
-During Election
+During Election:
 Voter visits the designated voting station, submits the vote
 Voter ID and Randomly generated Ballot ID are hashed
 Hash and Plaintext candidate choice are written to the block
