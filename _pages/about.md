@@ -45,7 +45,7 @@ author:
       <div class="value">
         <h3>Chase your fear</h3>
         <p>
-        Do exactly what you fear. Long time back when I was little, I was afraid of street dogs. They used to bark loudly showing and run fast, features of a deadly wild animal.  Believe me, I am talking about some really wild street dogs, not about your cute Daisy/Lucy/Tommy/Lola. One day, I chased a dog when it barked at me. I was not angry at the dog, I was just disappointed with myself that I was so easily afraid of a dog. My friends who saw me chasing the dog thought I was crazy. And I probably was however I did let off go my fear for dogs. Fear is temporary but chase it, get rid of it.  
+        Do exactly what you fear. Long time back when I was little, I was afraid of street dogs. They bark loudly and run fast, features of a deadly wild animal.  Believe me, I am talking about some really wild street dogs, not about your cute Daisy/Lucy/Tommy/Lola. One day, I chased a dog when it barked at me. I was not angry at the dog, I was just disappointed with myself that I was so easily afraid of a dog. My friends who saw me chasing the dog thought I was crazy. And I probably was however I did let off go my fear for dogs. Fear is temporary but chase it, get rid of it.  
         </p>
       </div>
       <div class="value">
