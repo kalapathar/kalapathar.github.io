@@ -4,7 +4,7 @@ title: "Travel Bans for Nepalese"
 date: 2020-03-19
 ---
 
-All countries are adding travel restrictions and while there are a lot of confusions, I will be updating this to provide a clarification for travel bans for Nepalese travelers. 
+All countries are adding travel restrictions and while there are a lot of confusions, I will be updating this page to provide a clarification for travel bans for Nepalese travelers. 
 
 ## Incoming 
 
