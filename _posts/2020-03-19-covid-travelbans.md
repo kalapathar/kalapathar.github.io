@@ -17,8 +17,8 @@ date: 2020-03-19
 - South Korea
 - Japan
 
-2. Visa-on-arrival suspended for all foreigners
-3. All the land ports of entry in Nepal remain closed for foreigners. They are requested to use TIA (Tribhuvan International Airport) only.
+2. Visa-on-arrival suspended for all foreigners (From 14th March till 30th April, 2020)
+3. All the land ports of entry in Nepal remain closed for foreigners. They are requested to use TIA (Tribhuvan International Airport) only. (From 14th March till 30th April, 2020)
 
 #Outgoing
 
