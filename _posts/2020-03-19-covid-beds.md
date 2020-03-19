@@ -9,12 +9,9 @@ Name of Hospital | No of Isolation Beds | Contact Number
 --- | --- | ---
 Tribhuvan University Teaching Hospital |11 | TBD
 
-
-
-
 As per [this article](https://www.spotlightnepal.com/2020/03/17/nepal-add-120-icu-beds-1000-beds-isolation-wards-treat-coronavirus-patients/), there is a plan to add the following number of beds:
 
-Name of Hospital | No of Isolation Beds | Contact Number
+Name of Hospital | No of Isolation Beds
 --- | --- | ---
  Ayruvedic Teaching Hospital |200 
  Kharipati-based Training Centre |220 
@@ -26,7 +23,4 @@ Name of Hospital | No of Isolation Beds | Contact Number
 
 
 
-
- Senior Dr Sundarmani Dixit has accused the government of not conducting a screening on any patients suspected with the coronavirus. The 3 cases that he had forwarded to Teku Hospital- all of them were told that they were fine without performing tests. Mr Dixit also says that Nepal has no kits to test the corona virus. That probably could be a primary reason why there are 0 active cases- people have not been tested and hence not reported. 
-
- [Watch this video to hear from him](https://www.facebook.com/watch/?v=2470025416571284)
+ <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfGpDaqV2_r-SwCaWVuB_7rYvtN0aB6y5f0CILo7rPyNJx-KA/viewform?embedded=true" width="640" height="407" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
