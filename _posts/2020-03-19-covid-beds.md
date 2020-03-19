@@ -22,5 +22,5 @@ Name of Hospital | No of Isolation Beds
  hospitals of Nepal Police and Armed Police Force | 100
 
 
-
+ If you know of hospitals which are not listed above and have Isolation Beds, please fill out the form below. I will update the list. 
  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfGpDaqV2_r-SwCaWVuB_7rYvtN0aB6y5f0CILo7rPyNJx-KA/viewform?embedded=true" width="640" height="407" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
