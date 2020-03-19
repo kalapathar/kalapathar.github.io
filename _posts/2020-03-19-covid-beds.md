@@ -6,7 +6,7 @@ date: 2020-03-19
 
 It is unbelievable that there are 0 active cases of Covid-19 in Nepal especially when there are [219,000 cases worldwide and 9,000 deaths already](https://www.worldometers.info/coronavirus/). When I came to Nepal via TIA airport a few weeks back, no one asked my travel history and no temperature checks of any kind. This was true for several other travelers. 
 
-We never know what is coming for us so I am compiling number of Isolation Beds in Nepal. Here are some:
+We never know what is coming for us so I am compiling information to find the number of Isolation Beds in Nepal. Here are some:
 
 Name of Hospital | No of Isolation Beds | Contact Number
 --- | --- | ---
