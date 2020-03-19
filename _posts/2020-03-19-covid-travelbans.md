@@ -23,4 +23,4 @@ All countries are adding travel restrictions and while there are a lot of confus
 
 ## Outgoing
 Depends upon where you travel. This is probably a good source: 
-(https://www.aljazeera.com/news/2020/03/coronavirus-travel-restrictions-border-shutdowns-country-200318091505922.html)
+[https://www.aljazeera.com/news/2020/03/coronavirus-travel-restrictions-border-shutdowns-country-200318091505922.html]
