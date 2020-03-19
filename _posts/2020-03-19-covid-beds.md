@@ -8,9 +8,11 @@ It is unbelievable that there are 0 active cases of Covid-19 in Nepal especially
 
 We never know what is coming for us so I am compiling information to find the number of Isolation Beds in Nepal. Here are some:
 
-Name of Hospital | No of Isolation Beds | Contact Number
+Name of Hospital | No of Isolation Beds 
 --- | --- | ---
-Tribhuvan University Teaching Hospital |11 | TBD
+Tribhuvan University Teaching Hospital |11 
+Bharatpur Hospital | 19
+
 
 As per [this article](https://www.spotlightnepal.com/2020/03/17/nepal-add-120-icu-beds-1000-beds-isolation-wards-treat-coronavirus-patients/), there is a plan to add the following number of beds:
 
