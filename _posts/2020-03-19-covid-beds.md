@@ -12,7 +12,7 @@ Tribhuvan University Teaching Hospital |11 | TBD
 
 
 
-As per this article(https://www.spotlightnepal.com/2020/03/17/nepal-add-120-icu-beds-1000-beds-isolation-wards-treat-coronavirus-patients/), there is a plan to add the following number of beds:
+As per [this article](https://www.spotlightnepal.com/2020/03/17/nepal-add-120-icu-beds-1000-beds-isolation-wards-treat-coronavirus-patients/), there is a plan to add the following number of beds:
 
 Name of Hospital | No of Isolation Beds | Contact Number
 --- | --- | ---
