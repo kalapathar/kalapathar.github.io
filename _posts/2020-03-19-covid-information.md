@@ -14,7 +14,7 @@ date: 2020-03-19
 
 [COVID-19 projects looking for volunteers](https://helpwithcovid.com/)
 
-[https://neherlab.org/covid19/]
+[Neher Lab](https://neherlab.org/covid19/)
 
 [Find out if you have Corona](https://covid.apollo247.com/)
 
