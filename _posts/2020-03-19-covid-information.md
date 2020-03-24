@@ -4,6 +4,7 @@ title: "Covid-19 Information"
 date: 2020-03-19
 ---
 
+[Covid-19 Nepal Updates](https://covidnepal.org/)
 
 [CoronaVirus Outbreak Live Updates](https://www.worldometers.info/coronavirus/)
 
