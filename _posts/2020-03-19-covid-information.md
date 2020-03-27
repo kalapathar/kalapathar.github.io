@@ -4,6 +4,8 @@ title: "Covid-19 Information"
 date: 2020-03-19
 ---
 
+<iframe src="https://ourworldindata.org/grapher/total-deaths-covid-19?tab=map&time=66" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 [Covid-19 Nepal Updates](https://covidnepal.org/)
 
 [CoronaVirus Outbreak Live Updates](https://www.worldometers.info/coronavirus/)
