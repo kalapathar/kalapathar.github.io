@@ -42,3 +42,7 @@ Psychiatry | 9849630430
 Urology | 9840683929
 Neuro Surgery | 9848907609
 Corona TU Teaching Hospital Tele Health Center | 44-12303, 44-12505, 44-12404
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/dDbSsoTcJ"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">Buy me a coffee</span></a>
