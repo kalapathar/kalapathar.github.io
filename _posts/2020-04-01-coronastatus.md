@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Decentralized Voting"
+title: "Make the Virus Visible"
 date: 2020-04-01
 ---
 
