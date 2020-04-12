@@ -9,19 +9,20 @@ I am forunate that I have not been laid off from my current job. However when sc
 I have compiled some resources that are still hiring despite the COVID-19 layoffs. I will be happy if either of these links would help you. Please reach to me personally as well and I can definiely share resumes in my network. 
 
 ## Remote Hiring
-https://www.levels.fyi/still-hiring/
-https://docs.google.com/spreadsheets/d/15vTgoKSDjOsyvyh_MMHyPN1kUBdkUlZFV_mQCmfF89Y/htmlview
-https://docs.google.com/spreadsheets/d/1R9IR8Z3-gU8uf76HOvVvh44R-UeQAxzmDe03E_vwRfs/edit#gid=388136490
+[https://www.levels.fyi/still-hiring/](https://www.levels.fyi/still-hiring/)
+[https://docs.google.com/spreadsheets/d/15vTgoKSDjOsyvyh_MMHyPN1kUBdkUlZFV_mQCmfF89Y/htmlview](https://docs.google.com/spreadsheets/d/15vTgoKSDjOsyvyh_MMHyPN1kUBdkUlZFV_mQCmfF89Y/htmlview)
+[https://docs.google.com/spreadsheets/d/1R9IR8Z3-gU8uf76HOvVvh44R-UeQAxzmDe03E_vwRfs/edit#gid=388136490]
+(https://docs.google.com/spreadsheets/d/1R9IR8Z3-gU8uf76HOvVvh44R-UeQAxzmDe03E_vwRfs/edit#gid=388136490)
 
 
-Sending resumes in a black hole hardly has gotten me a response. Instead I have changed my approach to send messages to people on slack and the respones have been pretty satisfying. Below are the slack groups of several cities and there is a "job" channel in each group and some posts about companies that are hiring. I hope that helps.
+Sending resumes in a black hole has hardly gotten me a response. Responses after applying for jobs in Indeed, Dice, Glassdoor CyberCoder, LinkedIn have taken quite a while and in most cases never heard back. Instead I have changed my approach to send messages to people on slack and the respones have been pretty satisfying. Below are the slack groups of several cities and there is a "job" channel in each group and some posts about companies that are hiring. I hope that helps.
 
 ## Slack Groups
-https://slofile.com/slack/msptech (Minneapolis)
-http://www.chicagotechslack.com/ (Chicago)
-http://www.dctechslack.com/ (DC)
-https://www.nyctechslack.com/ (NYC)
-https://bostondevops-slack.herokuapp.com/ (Boston DevOps) there might be more in Boston
-https://openseattle.slack.com/join/shared_invite/enQtNzczMjg5MzYyNzg4LTgwZDExYmE2MWQ4N2ZiN2VmNDllMmU3ODI0YWFkMTQ5ODY4MGMwNDBhOTQwNTU3OGJmYTI5ZTE3YWQ2NTdjYWY (Seattle)
-https://sendgrowth.com/psl (Philly)
+[https://slofile.com/slack/msptech] (Minneapolis) (https://slofile.com/slack/msptech)
+[http://www.chicagotechslack.com/] (Chicago) (http://www.chicagotechslack.com/)
+[http://www.dctechslack.com/] (DC) (http://www.dctechslack.com/)
+[https://www.nyctechslack.com/] (NYC) (https://www.nyctechslack.com/)
+[https://bostondevops-slack.herokuapp.com/] (Boston DevOps) (https://bostondevops-slack.herokuapp.com/)
+[https://openseattle.slack.com/join/shared_invite/enQtNzczMjg5MzYyNzg4LTgwZDExYmE2MWQ4N2ZiN2VmNDllMmU3ODI0YWFkMTQ5ODY4MGMwNDBhOTQwNTU3OGJmYTI5ZTE3YWQ2NTdjYWY] (Seattle) (https://openseattle.slack.com/join/shared_invite/enQtNzczMjg5MzYyNzg4LTgwZDExYmE2MWQ4N2ZiN2VmNDllMmU3ODI0YWFkMTQ5ODY4MGMwNDBhOTQwNTU3OGJmYTI5ZTE3YWQ2NTdjYWY)
+[https://sendgrowth.com/psl] (Philly) (https://sendgrowth.com/psl)
 
